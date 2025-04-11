@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6797943bab19a690aacb0ce2"
+  },
+  "student_name": "Student 1",
+  "parent_name": "Parent 1",
+  "roll_no": 1,
+  "serial_no": 3001,
+  "subjects": [
+    "Data Structures",
+    "Algorithms",
+    "Operating Systems"
+  ],
+  "phone_no": "1234567890"
+},
+{
+  "_id": {
+    "$oid": "6797943bab19a690aacb0ce3"
+  },
+  "student_name": "Student 2",
+  "parent_name": "Parent 2",
+  "roll_no": 2,
+  "serial_no": 3002,
+  "subjects": [
+    "Database Systems",
+    "Computer Networks",
+    "Software Engineering"
+  ],
+  "phone_no": "1234567891"
+},
+{
+  "_id": {
+    "$oid": "6797943bab19a690aacb0ce4"
+  },
+  "student_name": "Student 50",
+  "parent_name": "Parent 50",
+  "roll_no": 50,
+  "serial_no": 3050,
+  "subjects": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Cybersecurity"
+  ],
+  "phone_no": "1234567949"
+}]
