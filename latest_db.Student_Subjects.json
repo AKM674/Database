@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67f912837b976f5d08cb0ce2"
+  },
+  "roll_no": "BTH002",
+  "semester": 1,
+  "subjects": [
+    {
+      "subject_code": "CS101",
+      "subject_name": "Programming Fundamentals"
+    },
+    {
+      "subject_code": "MA101",
+      "subject_name": "Discrete Mathematics"
+    },
+    {
+      "subject_code": "HS101",
+      "subject_name": "Communication Skills"
+    }
+  ],
+  "academic_year": "2023-2024"
+},
+{
+  "_id": {
+    "$oid": "67f912837b976f5d08cb0ce3"
+  },
+  "roll_no": "BTH003",
+  "semester": 2,
+  "subjects": [
+    {
+      "subject_code": "CS102",
+      "subject_name": "Data Structures"
+    },
+    {
+      "subject_code": "EC101",
+      "subject_name": "Digital Electronics"
+    }
+  ],
+  "academic_year": "2023-2024"
+}]
